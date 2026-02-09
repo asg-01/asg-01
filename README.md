@@ -19,12 +19,12 @@
 
 <hr/>
 
-### 🚀 About Me
-I am a **Computer Science & Information Technology** student passionate about building intelligent systems and scalable software.
-* 🔭 I’m currently working on **AI Tools** and **DBMS Projects**.
-* 🌱 I’m currently learning **Java Spring** and **Advanced Python**.
-* 👯 I’m looking to collaborate on **Open Source AI projects**.
-* ⚡ Fun fact: I am building a Predictive Tax Leakage Engine!
+### 🚀 About Me!
+I am a **Computer Science Engineering** student passionate about building intelligent systems and scalable software.
+* 🔭 I’m currently working on Predictive Tax Leakage Engine!.
+* 🌱 I’m currently learning **Java Spring/Backend** and **Machine Learning & Data analysis**.
+* 👯 I’m looking to collaborate on **Impactful Open Source projects specially in automation and AI**.
+* ⚡ Fun fact: Love to automate tasks!
 
 <hr/>
 
