@@ -16,14 +16,14 @@ jobs:
           user: asg-01
           template: classic
           
-          # ONLY show the Header (Name + Total Commits)
-          base: header
+          # 1. MINIMAL MODE (Removes the Header/Joined/Followers text)
+          base: "" 
           
-          # 1. Circular/Isometric Commit Graph (The "Cool Dynamic" part)
+          # 2. 3D CALENDAR (Updates every 24 hours)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
-          # 2. Languages (Clean bar)
+          # 3. LANGUAGES (Clean Bar)
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
