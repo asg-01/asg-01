@@ -64,7 +64,10 @@ I am a **Computer Science Engineering** student passionate about building intell
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/asg-01/asg-01/master/github-metrics.svg?v=145" alt="Stats" width="100%">
+  <img src="https://img.shields.io/badge/Total_Commits-417+-blue?style=flat-square&logo=github&logoColor=white&labelColor=181717&color=3382F7" alt="Commits Badge"/>
+  <br/><br/>
+  
+  <img src="https://raw.githubusercontent.com/asg-01/asg-01/master/github-metrics.svg?v=150" alt="Stats" width="100%">
 </div>
 
 <br/>
