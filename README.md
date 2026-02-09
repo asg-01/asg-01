@@ -14,14 +14,14 @@
   <a href="https://github.com/asg-01">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  
+ 
 
 </div>
 
 <hr/>
 
 ### 🚀 About Me
-I am a **Computer Science Engineering** student passionate about building intelligent systems and scalable software.
+I am a **Computer Science Engineering** student passionate about building intelligent systems.
 * 🔭 **Working on:** Predictive Tax Leakage Engine!
 * 🌱 **Learning:** Java Spring, Machine Learning & Data Analysis.
 * 👯 **Collaborating on:** Impactful Open Source projects in Automation & AI.
@@ -64,7 +64,7 @@ I am a **Computer Science Engineering** student passionate about building intell
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/asg-01/asg-01/master/github-metrics.svg?v=130" alt="Stats" width="100%">
+  <img src="https://raw.githubusercontent.com/asg-01/asg-01/master/github-metrics.svg?v=145" alt="Stats" width="100%">
 </div>
 
 <br/>
@@ -78,5 +78,3 @@ I am a **Computer Science Engineering** student passionate about building intell
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=asg-01&color=blue&style=flat-square&label=Profile+Views" alt="profile views"/>
 </div>
-
-
