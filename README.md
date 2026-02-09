@@ -49,10 +49,9 @@ I am a **Computer Science & Information Technology** student passionate about bu
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asg-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="asg-01's stats" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asg-01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180"/>
+  <img src="https://raw.githubusercontent.com/asg-01/asg-01/main/github-metrics.svg" alt="My Stats" width="100%">
 </div>
 
 <br/>
