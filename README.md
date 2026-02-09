@@ -14,9 +14,7 @@
   <a href="https://github.com/asg-01">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  
 
 </div>
 
@@ -64,18 +62,18 @@ I am a **Computer Science Engineering** student passionate about building intell
 <br/>
 
 ### 📊 GitHub Analytics
-<table align="center" style="border: none; background-color: transparent;">
-  <tr>
-    <td align="center" width="50%" style="border: none; background-color: transparent;">
-      <b>Frequency & Languages</b><br/><br/>
-      <img src="https://raw.githubusercontent.com/asg-01/asg-01/master/github-metrics.svg?v=105" alt="Stats" width="100%">
-    </td>
-    <td align="center" width="50%" style="border: none; background-color: transparent;">
-      <b>Contribution Snake</b><br/><br/>
-      <img src="https://raw.githubusercontent.com/asg-01/asg-01/output/github-contribution-grid-snake.svg" alt="Snake" width="100%">
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/asg-01/asg-01/master/github-metrics.svg?v=110" alt="Stats" width="100%">
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/asg-01/asg-01/output/github-contribution-grid-snake.svg" alt="Snake" width="100%">
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=asg-01&color=blue&style=flat-square&label=Profile+Views" alt="profile views"/>
