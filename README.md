@@ -64,7 +64,7 @@ I am a **Computer Science Engineering** student passionate about building intell
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/asg-01/asg-01/master/github-metrics.svg?v=110" alt="Stats" width="100%">
+  <img src="https://raw.githubusercontent.com/asg-01/asg-01/master/github-metrics.svg?v=130" alt="Stats" width="100%">
 </div>
 
 <br/>
@@ -78,3 +78,5 @@ I am a **Computer Science Engineering** student passionate about building intell
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=asg-01&color=blue&style=flat-square&label=Profile+Views" alt="profile views"/>
 </div>
+
+
