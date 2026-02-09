@@ -47,11 +47,11 @@ I am a **Computer Science & Information Technology** student passionate about bu
 
 <br/>
 
-### 📊 GitHub Stats
 
 ### 📊 GitHub Stats
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://raw.githubusercontent.com/asg-01/asg-01/main/github-metrics.svg" alt="My Stats" width="100%">
+  <img src="https://raw.githubusercontent.com/asg-01/asg-01/main/github-metrics.svg?v=2" alt="Stats" width="100%">
 </div>
 
 <br/>
