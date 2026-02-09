@@ -49,7 +49,6 @@ I am a **Computer Science & Information Technology** student passionate about bu
 
 
 ### 📊 GitHub Stats
-### 📊 GitHub Stats
 <div align="center">
   <img src="https://raw.githubusercontent.com/asg-01/asg-01/main/github-metrics.svg?v=2" alt="Stats" width="100%">
 </div>
@@ -57,7 +56,7 @@ I am a **Computer Science & Information Technology** student passionate about bu
 <br/>
 
 
-### 🐍 Contribution Graph
+### 🐍 Contributions
 <div align="center">
   <img src="https://raw.githubusercontent.com/asg-01/asg-01/output/github-contribution-grid-snake.svg" alt="snake contribution graph" width="100%"/>
 </div>
