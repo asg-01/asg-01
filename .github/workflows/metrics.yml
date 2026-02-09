@@ -1,4 +1,3 @@
-
 name: Metrics
 on:
   schedule: [{cron: "0 0 * * *"}]
@@ -17,16 +16,9 @@ jobs:
           user: asg-01
           template: classic
           
-          # Keep minimal (no header text)
+          # 1. Clean Base (No Header, No "About Me")
           base: "" 
           
-          # 1. COMMIT HISTORY LINE (Replaces Languages)
-          # Shows a dynamic line graph of your commits/activity
-          plugin_lines: yes
-          plugin_lines_sections: history
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          
-          # 2. 3D CALENDAR (The blocks)
+          # 2. 3D Calendar (The cool blocks)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
