@@ -50,7 +50,7 @@ I am a **Computer Science & Information Technology** student passionate about bu
 
 ### 📊 Stats & Languages
 <div align="center">
-  <img src="https://raw.githubusercontent.com/asg-01/asg-01/main/github-metrics.svg?v=3" alt="Stats" width="100%">
+  <img src="https://raw.githubusercontent.com/asg-01/asg-01/master/github-metrics.svg?v=99" alt="Stats" width="100%">
 </div>
 
 <br/>
