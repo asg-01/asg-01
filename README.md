@@ -1,81 +1,81 @@
 <div align="center">
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20am%20Amritansh&descAlignY=51&descAlign=62)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hello%20World&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I%20am%20Amritansh&descAlignY=55&descAlign=62)
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3382F7&center=true&vCenter=true&width=435&lines=CSE+Undergrad;AI+%26+Python+Developer;Java+%26+Spring+Enthusiast;Data+Analysis+Wizard" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3382F7&center=true&vCenter=true&width=435&lines=CSE+Undergrad;AI+%26+Python+Developer;Java+%26+Spring+Enthusiast;Data+Analysis+Wizard" alt="Typing SVG" />
   </a>
 
   <br/>
 
   <a href="mailto:shayu45@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/asg-01">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
 </div>
 
 <hr/>
 
-### 🚀 About Me!
+### 🚀 About Me
 I am a **Computer Science Engineering** student passionate about building intelligent systems and scalable software.
-* 🔭 I’m currently working on Predictive Tax Leakage Engine!.
-* 🌱 I’m currently learning **Java Spring/Backend** and **Machine Learning & Data analysis**.
-* 👯 I’m looking to collaborate on **Impactful Open Source projects specially in automation and AI**.
-* ⚡ Fun fact: Love to automate tasks!
+* 🔭 **Working on:** Predictive Tax Leakage Engine!
+* 🌱 **Learning:** Java Spring, Machine Learning & Data Analysis.
+* 👯 **Collaborating on:** Impactful Open Source projects in Automation & AI.
+* ⚡ **Fun fact:** I love to automate tasks!
 
 <hr/>
 
-### 🛠️ Languages & Tools
-
+### 🛠️ Technologies
 <div align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-
-  <br/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
+  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
   
   <br/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white" />
 
   <br/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 
-  <br/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
-
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </div>
 
 <br/>
 
-### 📊 Stats & Languages
-<div align="center">
-  <img src="https://raw.githubusercontent.com/asg-01/asg-01/master/github-metrics.svg?v=99" alt="Stats" width="100%">
-</div>
-
-<br/>
-
-### 🐍 Contributions
-<div align="center">
-  <img src="https://raw.githubusercontent.com/asg-01/asg-01/output/github-contribution-grid-snake.svg" alt="snake contribution graph" width="100%"/>
-</div>
-
-<br/>
+### 📊 GitHub Analytics
+<table align="center" style="border: none; background-color: transparent;">
+  <tr>
+    <td align="center" width="50%" style="border: none; background-color: transparent;">
+      <b>Frequency & Languages</b><br/><br/>
+      <img src="https://raw.githubusercontent.com/asg-01/asg-01/master/github-metrics.svg?v=105" alt="Stats" width="100%">
+    </td>
+    <td align="center" width="50%" style="border: none; background-color: transparent;">
+      <b>Contribution Snake</b><br/><br/>
+      <img src="https://raw.githubusercontent.com/asg-01/asg-01/output/github-contribution-grid-snake.svg" alt="Snake" width="100%">
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=asg-01&color=blue&style=flat-square&label=Profile+Views" alt="profile views"/>
