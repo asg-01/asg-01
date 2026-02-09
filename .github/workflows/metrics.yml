@@ -16,14 +16,9 @@ jobs:
           user: asg-01
           template: classic
           
-          # 1. EMPTY BASE (Removes the big avatar header and "Joined" text)
+          # MINIMAL SETUP (Hidden Header)
           base: "" 
           
-          # 2. INTRODUCTION (The "1-2 lines" you asked for)
-          # Shows "Commits", "Issues", and "PRs" in a clean, simple list
-          plugin_introduction: yes
-          plugin_introduction_title: yes 
-          
-          # 3. 3D CALENDAR (The blocks you like)
+          # 3D CALENDAR (Shows streaks & intensity)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
