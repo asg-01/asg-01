@@ -58,8 +58,9 @@ I am a **Computer Science & Information Technology** student passionate about bu
 <br/>
 
 ### 🐍 Contribution Graph (The Snake!)
+### 🐍 Contribution Graph
 <div align="center">
-  <img src="https://github.com/asg-01/asg-01/blob/output/github-contribution-grid-snake.svg" alt="snake contribution graph" width="100%"/>
+  <img src="https://raw.githubusercontent.com/asg-01/asg-01/output/github-contribution-grid-snake.svg" alt="snake contribution graph" width="100%"/>
 </div>
 
 <br/>
